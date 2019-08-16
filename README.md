@@ -1,4 +1,4 @@
-# Jupiter
+# Jupiter: Java Web Service Development – Event Search and Ticket Recommendation
 
 ### Deploy on AWS EC2
 http://18.223.118.9/Jupiter/
