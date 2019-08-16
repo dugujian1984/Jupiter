@@ -1,4 +1,3 @@
-# Jupiter
 ## Java Web Service Development – Event Search and Ticket Recommendation
 
 ### Deploy on AWS EC2
