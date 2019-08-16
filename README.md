@@ -4,7 +4,7 @@
 http://18.223.118.9/Jupiter/
 
 ### Structure Diagram
-![Structure Diagram](/images/Capture.PNG)
+<img src="/images/Capture.PNG" width="600x">
 
 ### Description
 - Back End:
