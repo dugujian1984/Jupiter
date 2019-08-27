@@ -1,7 +1,7 @@
 ## Java Web Service Development – Event Search and Ticket Recommendation
 
 ### Deploy on AWS EC2
-http://18.223.118.9/Jupiter/
+http://18.224.252.244/Jupiter/
 
 ### Structure Diagram
 <img src="/images/Capture.PNG" width="600x">
